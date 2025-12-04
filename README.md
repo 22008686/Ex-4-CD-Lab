@@ -1,4 +1,4 @@
-# Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
+![1000122845](https://github.com/user-attachments/assets/fb405e9f-120a-447d-a94f-c6cb7ade6d9f)# Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 # NAME:M.PAVITHRA
 # REG NO:212222100032
@@ -64,8 +64,7 @@ yyerror(char*s)
 }
 ```
 # Output
-![375297684-e96d9e10-5302-4a7f-b640-dd0d63148840](https://github.com/user-attachments/assets/c32640c0-ddc9-49f7-ae77-cba3b53faa2d)
-
+![1000122845](https://github.com/user-attachments/assets/f3501942-0f55-4e18-be00-9298008c2cdb)
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
