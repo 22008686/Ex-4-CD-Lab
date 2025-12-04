@@ -2,7 +2,7 @@
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 # NAME:M.PAVITHRA
 # REG NO:212222100032
-# Date:21-10-2025
+# Date:25-10-2025
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
